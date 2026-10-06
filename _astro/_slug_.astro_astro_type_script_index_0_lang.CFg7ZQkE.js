@@ -1,1 +1,0 @@
-import{c as e}from"./motion.D1rmADtM.js";var t=document.querySelector(`.gen iframe`);addEventListener(`message`,n=>{if(t&&n.source===t.contentWindow&&n.data&&n.data.brassGen&&(n.data.height&&(t.style.height=`${Math.max(480,Math.ceil(n.data.height))}px`),n.data.wheel)){let t=e();t?t.scrollTo(t.targetScroll+n.data.wheel):scrollBy(0,n.data.wheel)}});
