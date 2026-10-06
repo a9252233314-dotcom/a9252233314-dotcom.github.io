@@ -1,0 +1,11 @@
+<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs><clipPath id="ct"><path d="M9.5 12.5 a6.5 5.6 0 0 1 13 0 z"/></clipPath></defs>
+  <path d="M9.5 12.5 a6.5 5.6 0 0 1 13 0 z" stroke="currentColor" stroke-width="1.35" fill="none"/>
+  <g clip-path="url(#ct)">
+    <path d="M13.96,11.05 Q13.60,11.84 12.66,11.88 Q11.73,11.92 11.14,11.09 Q10.55,10.26 11.05,9.27 Q11.54,8.28 12.57,8.48 Q13.60,8.68 13.96,9.47 Q14.33,10.26 13.96,11.05 Z" stroke="currentColor" stroke-width="1.15" fill="none"/>
+    <path d="M17.80,9.59 Q17.16,10.59 16.00,10.59 Q14.84,10.59 14.14,9.59 Q13.43,8.58 14.22,7.72 Q15.01,6.87 16.08,6.73 Q17.14,6.60 17.79,7.59 Q18.43,8.58 17.80,9.59 Z" stroke="currentColor" stroke-width="1.15" fill="none"/>
+    <path d="M20.79,11.07 Q20.25,11.89 19.28,11.94 Q18.31,12.00 17.98,11.13 Q17.66,10.26 18.07,9.54 Q18.48,8.82 19.39,8.69 Q20.29,8.57 20.81,9.41 Q21.32,10.26 20.79,11.07 Z" stroke="currentColor" stroke-width="1.15" fill="none"/>
+  </g>
+  <line x1="16" y1="12.5" x2="16" y2="27" stroke="currentColor" stroke-width="1.35" fill="none"/>
+  <path d="M11.5 28 Q16 25.4 20.5 28" stroke="currentColor" stroke-width="1.35" fill="none"/>
+</svg>
